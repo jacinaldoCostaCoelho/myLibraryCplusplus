@@ -1,4 +1,9 @@
-//
-// Created by jacin on 23/03/2021.
-//
 
+#include <iostream>
+#include "Teste.h"
+
+int main(){
+    Teste test;
+    test.sum();
+    return 0;
+}

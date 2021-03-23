@@ -1,0 +1,3 @@
+C:/Development/gitHab/myLibraryCplusplus/cmake-build-debug/CMakeFiles/myLibraryCplusplus.dir
+C:/Development/gitHab/myLibraryCplusplus/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Development/gitHab/myLibraryCplusplus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
